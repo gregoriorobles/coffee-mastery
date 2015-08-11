@@ -22,3 +22,7 @@ Requirements
 ============
 
 * Python
+* coffee-mastery
+* <a href="https://github.com/mdiebolt/clog">clog</a>
+  * exec-sync (npm install exec-sync)
+  * minimist (npm install minimist)
